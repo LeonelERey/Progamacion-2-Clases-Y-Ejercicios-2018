@@ -1,0 +1,7 @@
+D:\VisualStudio\programacion y laboratorio 2\Ejercicio11\bin\Debug\Ejercicio11.exe.config
+D:\VisualStudio\programacion y laboratorio 2\Ejercicio11\bin\Debug\Ejercicio11.exe
+D:\VisualStudio\programacion y laboratorio 2\Ejercicio11\bin\Debug\Ejercicio11.pdb
+D:\VisualStudio\programacion y laboratorio 2\Ejercicio11\obj\Debug\Ejercicio11.csprojAssemblyReference.cache
+D:\VisualStudio\programacion y laboratorio 2\Ejercicio11\obj\Debug\Ejercicio11.csproj.CoreCompileInputs.cache
+D:\VisualStudio\programacion y laboratorio 2\Ejercicio11\obj\Debug\Ejercicio11.exe
+D:\VisualStudio\programacion y laboratorio 2\Ejercicio11\obj\Debug\Ejercicio11.pdb
